@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="240" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias</h1>
+    <h1 align="center">Linguagens/Frameworks</h1>
     <img align="center" height="30" width="40" alt="typescript-icon"  src="https://github.com/Rfaelsn/Rfaelsn/blob/main/ts-logo-256.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
