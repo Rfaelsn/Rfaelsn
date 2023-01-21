@@ -27,7 +27,7 @@
       <img width="30" src="Gmail_icon.png">
     </a>
     <a href = "https://www.linkedin.com/in/rafael-nascimento-11b301212/">
-      <img width="25" src="Linkedin_icon.svg">
+      <img width="25" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/LinkedIn_icon.svg">
     </a>
 </div>
   
