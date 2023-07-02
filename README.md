@@ -20,6 +20,7 @@
     <img align="center" height="30" width="40" alt="golang-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/gopher-standing.png">
     <h1 align="center">Banco de Dados</h1>
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/MySQL-Logo.wine.svg">
+    <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/prisma-svgrepo-com.svg">
     <img align="center" height="30" width="40" alt="postgrees-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/PostgreSQL-Logo.wine.svg">
     <img align="center" height="30" width="40" alt="mongodb-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/mongodb-icon.svg">
    </div>
