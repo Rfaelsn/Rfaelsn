@@ -13,8 +13,8 @@
     <h1 align="center">Linguagens/Frameworks</h1>
     <img align="center" height="30" width="40" alt="typescript-icon"  src="https://github.com/Rfaelsn/Rfaelsn/blob/main/ts-logo-256.svg">
     <img align="center" height="30" width="40" alt="vue-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/vueJS.png">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/NestJS.svg.png">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/Spring_Boot.svg.png">
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="golang-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/gopher-standing.png">
